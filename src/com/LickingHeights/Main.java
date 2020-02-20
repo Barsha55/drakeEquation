@@ -6,6 +6,8 @@ public class Main {
 
     public static void main(String[] args) {
 
+    public static void main(String[] args) {
+    drakeEquation();
     }
 
     public static void drakeEquation() {
@@ -27,6 +29,8 @@ L = 1000 to 100,000,000 years (which will last somewhere between 1000 and 100,00
         double f_i;
         double f_c;
         int l;
+        Scanner keyboard;
+        keyboard =new Scanner(System.in);
 
 
     }
