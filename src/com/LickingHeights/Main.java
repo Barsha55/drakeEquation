@@ -49,6 +49,8 @@ L = 1000 to 100,000,000 years (which will last somewhere between 1000 and 100,00
         f_p= keyboard.nextDouble();
         System.out.println(" how many planets are capable of developing a life? ");
         numberOfExoplanets=keyboard.nextInt();
+        System.out.println("of those planets, how many do you believe will develop life ");
+        f_l=keyboard.nextDouble();
     }
 
 }
