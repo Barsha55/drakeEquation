@@ -55,6 +55,8 @@ L = 1000 to 100,000,000 years (which will last somewhere between 1000 and 100,00
         f_i=keyboard.nextDouble();
         System.out.println("of those planets, how many will be able to communicate?");
         f_c= keyboard.nextDouble();
+        System.out.println("how many of those planets will last somewhere between 100 and 10,000,000 years.");
+        l=keyboard.nextInt();
     }
 
 }
