@@ -47,6 +47,8 @@ L = 1000 to 100,000,000 years (which will last somewhere between 1000 and 100,00
         rStar= keyboard.nextInt();
         System.out.println("how many stars formed have planets ?");
         f_p= keyboard.nextDouble();
+        System.out.println(" how many planets are capable of developing a life? ");
+        numberOfExoplanets=keyboard.nextInt();
     }
 
 }
