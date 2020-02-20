@@ -45,6 +45,8 @@ L = 1000 to 100,000,000 years (which will last somewhere between 1000 and 100,00
 
         System.out.println("how many stars are formed in the galaxy per year per year?");
         rStar= keyboard.nextInt();
+        System.out.println("how many stars formed have planets ?");
+        f_p= keyboard.nextDouble();
     }
 
 }
